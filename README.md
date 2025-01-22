@@ -3,12 +3,12 @@
 Ans. 
 
 **Java**
-Java is a safely typed language i.e. it does not support pointers.
+* Java is a safely typed language i.e. it does not support pointers.
 Java does not support static constructors.
 Java uses Java runtime environment (JRE) to run programs.
 
 **C#**
-C# is an unsafe language i.e it supports the use of pointers.
+* C# is an unsafe language i.e it supports the use of pointers.
 C# supports static constructors.
 C# uses CLR (Common Language Runtime) to run programs. 
 
